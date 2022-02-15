@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Trainee Ruby Engineer at Smart Pension.
+I am currently a Junior Ruby Engineer at Smart Pension.
 This is my work GitHub account.
 
 <!--
